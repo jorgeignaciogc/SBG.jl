@@ -93,6 +93,8 @@ This method has two versions:
 The details behind the algorithms can be found in the article: 
 Jorge González Cázares and Aleksandar Mijatović, *Simulation of the drawdown and its duration in Lévy models via stick-breaking Gaussian approximation*, [arXiv:1806.01870v2](https://arxiv.org/abs/1806.01870v2) (2020).
 
+For a short video on the paper, see: https://youtu.be/EL0v2QUb5tQ
+
 <a name="examples"/>
 
 ## Examples
